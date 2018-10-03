@@ -21,8 +21,8 @@ public class Exe4 {
      *              ***
      *              ****
      *
-     * Hint: to print something without a newline afterwards use: System.methods.out.print()
-     * instead of Syste
+     * Hint: to print something without a newline afterwards use: System.out.print()
+     * instead of "println()"
      * */
 
     public static void main(String[] args) {
