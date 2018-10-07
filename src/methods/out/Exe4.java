@@ -19,9 +19,9 @@ public class Exe4 {
      * */
     public static void main(String[] args) {
         int A[] = {5,3,1,0,14};
-        boolean firstTry = doesContainThisSum(A, 8);
-        boolean secondTry = doesContainThisSum(A, 100);
-        boolean thirdTry = doesContainThisSum(A, 5);
+        boolean firstTry = doesContainThisSum(A, 8); // true because 5 + 3 = 8
+        boolean secondTry = doesContainThisSum(A, 100); // false
+        boolean thirdTry = doesContainThisSum(A, 5); // true because 5 + 0 = 5
 
 
         System.out.println(firstTry);
