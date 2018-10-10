@@ -1,6 +1,4 @@
-package oop.exe2;
-
-import java.util.Date;
+package oop.exe3;
 
 public class Game {
 
