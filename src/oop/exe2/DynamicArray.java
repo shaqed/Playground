@@ -3,6 +3,38 @@ package oop.exe2;
 public class DynamicArray {
 
     /***
+     * Create a new Dynamic Array that
+     * combines the values of the first array
+     * with the second
+     * @param arr1 The first array
+     * @param arr2 The second array
+     * @return arr1 + arr2
+     */
+    public static DynamicArray combine(DynamicArray arr1, DynamicArray arr2) {
+        return null;
+    }
+
+
+
+
+    /***
+     * Default empty constructor
+     */
+    public DynamicArray() {
+
+    }
+
+    /***
+     * A Copy-constructor.
+     * Given an object of dynamic array
+     * creates a new object with the same values as "other"
+     * @param other The other dynamic array
+     */
+    public DynamicArray(DynamicArray other) {
+
+    }
+
+    /***
      * This method retrieves an item from the dynamic array at said index
      *
      * if the given index is out of the bounds an error message
